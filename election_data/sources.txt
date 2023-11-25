@@ -1,2 +1,3 @@
 inhabitants = https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/daten.assetdetail.28265992.html
 election_dataset = https://opendata.swiss/de/dataset/eidg-wahlen-2023
+election_metadata = https://ogd-static.voteinfo-app.ch/v4/ogd/sd-t-17.02-NRW2023-metadaten.json
