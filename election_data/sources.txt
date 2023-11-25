@@ -1,2 +1,2 @@
-inahbitangs = https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/daten.assetdetail.28265992.html
+inhabitants = https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/daten.assetdetail.28265992.html
 election_dataset = https://opendata.swiss/de/dataset/eidg-wahlen-2023
