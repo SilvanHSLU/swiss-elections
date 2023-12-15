@@ -1,9 +1,10 @@
 import json
-
+CONSERVATIVE_COLOR = '#AB84E0'
+MIDDLE_COLOR = '#E0B884'
+LEFT_COLOR = '#84E09B'
 METADATA_FILE = 'election_data/NRW2023-metadaten.json'
 with open(METADATA_FILE) as f:
     metadata = json.load(f)
-    print(metadata.keys())
 
 party_metadata = {party['partei_id']: {'name': party['partei_bezeichnung'][0]['text']} for party in
                   metadata['parteien']}
