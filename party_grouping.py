@@ -1,7 +1,7 @@
 import json
-CONSERVATIVE_COLOR = '#AB84E0'
-MIDDLE_COLOR = '#E0B884'
-LEFT_COLOR = '#84E09B'
+CONSERVATIVE_COLOR = '#28B4FA'
+MIDDLE_COLOR = '#FAF448'
+LEFT_COLOR = '#FA253B'
 METADATA_FILE = 'election_data/NRW2023-metadaten.json'
 with open(METADATA_FILE) as f:
     metadata = json.load(f)
