@@ -1,0 +1,20 @@
+{
+  "results": {
+    "FDP.Die Liberalen": 11,
+    "Schweizerische Volkspartei": 6,
+    "Die Mitte": 15,
+    "Grünliberale Partei": 1,
+    "Sozialdemokratische Partei der Schweiz": 9,
+    "GRÜNE Schweiz": 3,
+    "Mouvement Citoyens Romands": 1
+  },
+  "deltas": {
+    "FDP.Die Liberalen": -1,
+    "Schweizerische Volkspartei": -1,
+    "Die Mitte": 1,
+    "Grünliberale Partei": 1,
+    "Sozialdemokratische Partei der Schweiz": 2,
+    "GRÜNE Schweiz": -2,
+    "Mouvement Citoyens Romands": 1
+  }
+}
