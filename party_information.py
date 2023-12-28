@@ -2,6 +2,9 @@ import json
 CONSERVATIVE_COLOR = '#28B4FA'
 MIDDLE_COLOR = '#FAF448'
 LEFT_COLOR = '#FA253B'
+CONSERVATIVE_SHADE = '#77D3F4'
+MIDDLE_SHADE = '#F5E392'
+LEFT_SHADE = '#F5777E'
 COLOR_DICT = {'left': LEFT_COLOR,'middle': MIDDLE_COLOR,'conservative': CONSERVATIVE_COLOR, '': (1, 1, 1, 0)}
 METADATA_FILE = 'election_data/NRW2023-metadaten.json'
 NATIONAL_COUNCIL_FILE = 'election_data/dataset_elections_bfs.json'
