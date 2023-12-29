@@ -7,7 +7,14 @@ for font in fm.findSystemFonts(font_dir):
 
 TITLE_FONT = {
     'fontname': 'PT Sans',
-    'size': '32',
+    'size': '28',
+    'color': 'black',
+    'weight': 'bold',
+    'verticalalignment': 'bottom'
+}
+SUBTITLE_FONT = {
+    'fontname': 'PT Sans',
+    'size': '18',
     'color': 'black',
     'weight': 'bold',
     'verticalalignment': 'bottom'
